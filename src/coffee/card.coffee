@@ -1,7 +1,7 @@
 require '../scss/card.scss'
 
 QJ = require 'qj'
-payment = require 'payment'
+payment = require '@paysera/fork-payment'
 extend = require 'node.extend'
 
 class Card
