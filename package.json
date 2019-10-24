@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "@paysera/fork-payment": "^2.3.0",
-    "node.extend": "~1.1.3",
+    "node.extend": "~2.0.2",
     "qj": "^2.0.0"
   }
 }
